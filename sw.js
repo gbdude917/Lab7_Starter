@@ -3,11 +3,11 @@
 
 const CACHE_NAME = 'lab-7-starter';
 let urlsToCache = [
-  '/',
-  '/index.html',
-  '/assets/scripts/main.js',
-  '/assets/scripts/Router.js',
-  '/assets/styles/main.css'
+  '',
+  'index.html',
+  'assets/scripts/main.js',
+  'assets/scripts/Router.js',
+  'assets/styles/main.css'
 ];
 
 // Once the service worker has been installed, feed it some initial URLs to cache
